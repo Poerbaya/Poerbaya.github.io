@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1wwrd0eio24-o.js"
+3:I[58562,["$2"],"Header"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:I[22016,["$2"],""]
+7:I[58562,["$2"],"Footer"]
+e:I[97367,["$2"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+:HL["/_next/static/chunks/2lkj6w8b4tfdi.css","style"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"not-found","children":[["$","span",null,{"className":"section-label","children":"404 · PAGE NOT FOUND"}],["$","h1",null,{"children":"A different path forward."}],["$","p",null,{"children":"Explore Ojasvi’s executive summary and company positioning on our homepage."}],["$","$L6",null,{"className":"button dark","href":"/","children":"Back to Ojasvi"}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+a:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2lkj6w8b4tfdi.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1wwrd0eio24-o.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L3",null,{}],["$","main",null,{"id":"main","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","div",null,{"className":"not-found","children":[["$","span",null,{"className":"section-label","children":"404 · PAGE NOT FOUND"}],["$","h1",null,{"children":"A different path forward."}],["$","p",null,{"children":"Explore Ojasvi’s executive summary and company positioning on our homepage."}],["$","$L6",null,{"className":"button dark","href":"/","children":"Back to Ojasvi"}]]}],[]]}]}],["$","$L7",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Ojasvi Energy Group\",\"url\":\"https://poerbaya.github.io\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Pekajangan\",\"addressRegion\":\"Central Java\",\"addressCountry\":\"ID\"}}"}}]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Ojasvi Energy Group — Powering Progress. Shaping Tomorrow."}],["$","meta","1",{"name":"description","content":"Meet Ojasvi Energy Group: our executive summary, company positioning, mission, vision, and core principles. Headquartered in Pekajangan, Central Java, Indonesia."}],["$","link","2",{"rel":"canonical","href":"https://poerbaya.github.io"}],["$","meta","3",{"property":"og:title","content":"Ojasvi Energy Group — Powering Progress. Shaping Tomorrow."}],["$","meta","4",{"property":"og:description","content":"Meet Ojasvi Energy Group: our executive summary, company positioning, mission, vision, and core principles. Headquartered in Pekajangan, Central Java, Indonesia."}],["$","meta","5",{"property":"og:site_name","content":"Ojasvi Energy Group"}],["$","meta","6",{"property":"og:image","content":"https://poerbaya.github.io/energy-landscape.svg"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Ojasvi Energy Group — Powering Progress. Shaping Tomorrow."}],["$","meta","10",{"name":"twitter:description","content":"Meet Ojasvi Energy Group: our executive summary, company positioning, mission, vision, and core principles. Headquartered in Pekajangan, Central Java, Indonesia."}],["$","meta","11",{"name":"twitter:image","content":"https://poerbaya.github.io/energy-landscape.svg"}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"ghcQ-XRPmiZUk69nhfQ4r"}
+10:null
+9:300
+18:true
+9:C
+17:0
+b:"$undefined"
+8:"$undefined"
+16:"$undefined"
+11:"$undefined"

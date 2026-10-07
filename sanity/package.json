@@ -1,0 +1,1 @@
+{"name":"ojasvi-content-studio","private":true,"type":"module","scripts":{"dev":"sanity dev --host 0.0.0.0","build":"sanity build","export":"sanity dataset export production ./backups/production.tar.gz"},"dependencies":{"react":"^19.0.0","react-dom":"^19.0.0","sanity":"5.14.1","styled-components":"^6.5.3"}}

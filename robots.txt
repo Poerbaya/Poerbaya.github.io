@@ -1,1 +1,4 @@
-Sitemap: http://www.askjeeves.com/sitemap.xml
+User-Agent: *
+Allow: /
+
+Sitemap: https://poerbaya.github.io/sitemap.xml
